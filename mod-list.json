@@ -1,0 +1,56 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "auto-research",
+      "enabled": true
+    },
+    
+    {
+      "name": "belt-balancer",
+      "enabled": true
+    },
+    
+    {
+      "name": "far-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    
+    {
+      "name": "WaterWell",
+      "enabled": true
+    }
+  ]
+}
